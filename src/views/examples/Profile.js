@@ -152,9 +152,6 @@ class Profile extends React.Component {
                           with some passion, some compassion, some humor, and
                           some style.
                         </p>
-                        <a href="#pablo" onClick={(e) => e.preventDefault()}>
-                          Show more
-                        </a>
                       </Col>
                     </Row>
                   </div>
